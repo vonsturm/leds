@@ -1,5 +1,5 @@
-import pkgplaceholder
+import leds  # noqa: F401
 
 
-def test_core():
-    assert pkgplaceholder.hello_world() == "Hello World!"
+def test_import():
+    pass
