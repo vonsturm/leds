@@ -10,4 +10,8 @@
 ![License](https://img.shields.io/github/license/legend-exp/leds)
 [![Read the Docs](https://img.shields.io/readthedocs/leds?logo=readthedocs)](https://leds.readthedocs.io)
 
+An event viewer for the LEGEND experiment.
+
 *Work in progress...*
+
+<sub>*This Python package layout is based on [pyproject-template](https://github.com/gipert/pyproject-template).*</sub>
